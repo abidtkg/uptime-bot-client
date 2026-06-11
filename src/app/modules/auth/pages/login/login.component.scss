@@ -1,0 +1,21 @@
+.login{
+    margin-top: 200px;
+}
+
+
+.register-link {
+    text-decoration: none;
+    color: #56A689;
+    font-size: large;
+}
+
+.header-image {
+    background-image: url('https://cdn.jsdelivr.net/gh/selfhst/icons/svg/uptimekit.svg');
+    background-size: cover;
+}
+  
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
